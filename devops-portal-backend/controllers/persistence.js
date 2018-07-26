@@ -1,0 +1,1 @@
+// use this as an interface for the persistent storage e.g. mongodb
